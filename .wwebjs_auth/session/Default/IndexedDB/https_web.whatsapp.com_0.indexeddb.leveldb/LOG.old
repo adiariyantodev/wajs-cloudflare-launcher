@@ -1,0 +1,39 @@
+2025/07/31-09:09:46.036 1b98 Reusing MANIFEST C:\xampp\htdocs\wajs-web-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/31-09:09:46.048 1b98 Recovering log #168
+2025/07/31-09:09:46.220 1b98 Reusing old log C:\xampp\htdocs\wajs-web-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000168.log 
+2025/07/31-09:09:50.478 3940 Level-0 table #175: started
+2025/07/31-09:09:50.546 3940 Level-0 table #175: 1029156 bytes OK
+2025/07/31-09:09:50.548 3940 Delete type=0 #168
+2025/07/31-09:09:51.436 1a3c Level-0 table #177: started
+2025/07/31-09:09:51.449 1a3c Level-0 table #177: 13985 bytes OK
+2025/07/31-09:09:51.452 1a3c Delete type=0 #174
+2025/07/31-09:09:51.453 1a3c Manual compaction at level-0 from '\x00,\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at '\x00,\x00\x00\x05' @ 755532 : 1
+2025/07/31-09:09:51.454 1a3c Compacting 1@0 + 1@1 files
+2025/07/31-09:09:51.569 1a3c Generated table #178@0: 13677 keys, 274903 bytes
+2025/07/31-09:09:51.569 1a3c Compacted 1@0 + 1@1 files => 274903 bytes
+2025/07/31-09:09:51.570 1a3c compacted to: files[ 0 1 4 0 0 0 0 ]
+2025/07/31-09:09:51.571 1a3c Delete type=2 #177
+2025/07/31-09:09:51.572 1a3c Manual compaction at level-0 from '\x00,\x00\x00\x05' @ 755532 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/31-09:09:57.052 3940 Compacting 1@1 + 2@2 files
+2025/07/31-09:09:57.276 3940 Generated table #179@1: 56776 keys, 2221684 bytes
+2025/07/31-09:09:57.433 3940 Generated table #180@1: 36786 keys, 2178210 bytes
+2025/07/31-09:09:57.433 3940 Compacted 1@1 + 2@2 files => 4399894 bytes
+2025/07/31-09:09:57.435 3940 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/07/31-09:09:57.435 3940 Delete type=2 #175
+2025/07/31-09:10:13.206 3940 Level-0 table #182: started
+2025/07/31-09:10:13.253 3940 Level-0 table #182: 1106244 bytes OK
+2025/07/31-09:10:13.256 3940 Delete type=2 #170
+2025/07/31-09:10:13.256 3940 Delete type=2 #171
+2025/07/31-09:10:13.256 3940 Delete type=0 #176
+2025/07/31-09:10:13.256 3940 Delete type=2 #178
+2025/07/31-09:10:13.274 3940 Compacting 1@1 + 4@2 files
+2025/07/31-09:10:13.417 3940 Generated table #183@1: 57804 keys, 2222044 bytes
+2025/07/31-09:10:13.505 3940 Generated table #184@1: 33317 keys, 2184830 bytes
+2025/07/31-09:10:13.552 3940 Generated table #185@1: 24947 keys, 508573 bytes
+2025/07/31-09:10:13.552 3940 Compacted 1@1 + 4@2 files => 4915447 bytes
+2025/07/31-09:10:13.553 3940 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/07/31-09:10:13.553 3940 Delete type=2 #167
+2025/07/31-09:10:13.554 3940 Delete type=2 #172
+2025/07/31-09:10:13.554 3940 Delete type=2 #179
+2025/07/31-09:10:13.554 3940 Delete type=2 #180
+2025/07/31-09:10:13.554 3940 Delete type=2 #182
